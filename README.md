@@ -1,7 +1,8 @@
 # Pete_project
 
 ## Mock Up
-[Image]
+<img src="images/portfolio_project_image.png" align="center"/>
+
 
 This project is creating a digital business card for artist, Pete Thinkful. Using this provided mockup and images, I developed Pete an interactive website that displays his art. 
 
@@ -11,14 +12,14 @@ This project is creating a digital business card for artist, Pete Thinkful. Usin
 
 First, using the provided mock up, I assigned each text to a heading element or to a paragraph. 
 
-[IMAGE]
+<img src="images/organized_mock_up.png" align="center"/>
 
 After adding all the text and assigning the appropriate tags, I worked on the nav semantic container. The hardest part was figuring out how to design it as close as possible to the mock up. I did research on columns, but decided I was overthinking it for this project and just spaced them evenly apart. With the use of the article tags, the user can click links to quickly navigate to different parts of Pete's portfolio. As requested, I left the social media href values empty. 
 
 
 This is what the preview looked like after completing this. 
 
-[IMAGE]
+<img src="images/Result_after_html.png" align="center"/>
 
 ___
 
@@ -59,7 +60,7 @@ The background was set to color #eae2b7 and headers and footers were centered.
 The HTML was then validated. The only errors given were that the href values in the contact section were empty, so I proceded as advised by earlier instruction.
 ___
 
-##Adknowledgements 
+## Adknowledgements 
 
 Thank you to Varsha P. for assisting me with uploading my project onto Github. 
 
